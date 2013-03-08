@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "grunt test"
   },
   "keywords": [
     "sass",

@@ -28,5 +28,6 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks("grunt-simple-mocha");
 
 	grunt.registerTask("default", ["jshint", "simplemocha"]);
+	grunt.registerTask("test", ["jshint", "simplemocha"]);
 
 };
