@@ -5,7 +5,7 @@ A sass compiler for node that relies on your installed ruby gem of sass.
 
 ### Installation
 
-    npm install sassy
+    npm install node-sassy
 
 ### Example
 
