@@ -1,7 +1,7 @@
 {
-  "name": "node-sassy",
+  "name": "sassy",
   "version": "0.0.1",
-  "description": "A sass compiler for node that actually works",
+  "description": "A sass compiler for node that uses your existing sass gem.",
   "main": "index.js",
   "directories": {
     "test": "test"
