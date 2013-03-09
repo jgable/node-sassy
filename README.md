@@ -1,4 +1,4 @@
-node-sassy
+node-sassy [![Build Status](https://travis-ci.org/jgable/node-sassy.png)](https://travis-ci.org/jgable/node-sassy)
 ==========
 
 A sass compiler for node that relies on your installed ruby gem of sass.
